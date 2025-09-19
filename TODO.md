@@ -1,0 +1,2 @@
+- [x] Corrigir os caminhos dos links no array projects para apontar para os arquivos corretos
+- [x] Remover a string vazia no array tech do segundo projeto
